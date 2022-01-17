@@ -299,3 +299,10 @@
   opacity: 1;
   right: 0;
 }
+
+.error {
+  color: #fff;
+  position: relative;
+  left: 18px;
+  top: 5px;
+}
